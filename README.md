@@ -44,3 +44,22 @@ cmd npm run serve
 ```
 
 ## 4.项目预览
+
+
+用户列表
+![image](/imgs/1.jpg)
+权限管理
+![image](/imgs/2.jpg)
+商品列表
+![image](/imgs/3.jpg)
+用户列表
+![image](/imgs/4.jpg)
+分类参数
+![image](/imgs/5.jpg)
+订单列表
+![image](/imgs/6.jpg)
+数据统计
+![image](/imgs/7.jpg)
+商品添加
+![image](/imgs/8.jpg)
+
