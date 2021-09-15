@@ -34,12 +34,12 @@
 
 ```
 启动后台
-cd vueShop-api-server
+cd manage_server
 npm install
 node ./app.js
 
 启动前端项目
-cd vue_manage
+cd manage_client
 npm install
 npm run serve
 
