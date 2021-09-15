@@ -35,11 +35,13 @@
 ```
 启动后台
 cd vueShop-api-server
-cmd node ./app.js
+npm install
+node ./app.js
 
 启动前端项目
 cd vue_manage
-cmd npm run serve
+npm install
+npm run serve
 
 ```
 
